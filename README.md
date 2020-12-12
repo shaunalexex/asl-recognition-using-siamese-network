@@ -2,7 +2,7 @@
 
 In this project I have used the dataset available at https://www.kaggle.com/datamunge/sign-language-mnist
 
-Although this model can be trained using a standard CNN model, In this project I have used siamese network model to recognize american sign language.
+Although this dataset can be trained using a standard CNN model, In this project I have used siamese network model to recognize american sign language.
 
 Framework used : 
 

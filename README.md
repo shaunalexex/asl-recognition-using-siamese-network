@@ -10,7 +10,7 @@ Tensorflow, Keras
 
 ASL Dataset Example:
 
-![](Images/american_sign_language.PNG)
+![](Images/amer_sign2.png)
 
 Model used : 
 

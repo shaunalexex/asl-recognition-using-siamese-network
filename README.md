@@ -22,7 +22,7 @@ Here, Input Layer is defined as follows :
 
 Classification Report Generated on TestSet: 
 
-![](Images/classification_report.png)
+![](Images/report.png)
 
 This model is successfully able to classify static sign language image into 24 classes with 100% accuracy on test set
 

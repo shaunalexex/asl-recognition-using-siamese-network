@@ -24,7 +24,7 @@ Classification Report Generated on TestSet:
 
 ![](Images/classification_report.png)
 
-This model is successfully able to classify static sign language image into 24 classes
+This model is successfully able to classify static sign language image into 24 classes with 100% accuracy on test set
 
 This is because the sign for J and Z are in motion, which i will look to cover in a future project.
 
